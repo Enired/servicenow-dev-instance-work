@@ -143,5 +143,100 @@
     "wf_element_activity": true,
     "wf_activity_definition": true,
     "wf_ui_policy": true
+  },
+  "Access Control": {
+    "Roles": {
+      "x_966148_gaming.playthroughs_user": {
+        "sys_id": "0846b559976321107c1c358e6253af52",
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1687221252000,
+        "CURRENT_LOCAL_MOD_TIME": 1687196083268
+      }
+    }
+  },
+  "Navigation": {
+    "Modules": {
+      "Playthroughs": {
+        "sys_id": "1446f559976321107c1c358e6253af98",
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1687222575000,
+        "CURRENT_LOCAL_MOD_TIME": 1687196083268
+      },
+      "In Progress": {
+        "sys_id": "4b5d3d1197a321107c1c358e6253afe4",
+        "LIVE": false,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1687223943000
+      },
+      "Create New": {
+        "sys_id": "a28b79dd976321107c1c358e6253aff4",
+        "LIVE": false,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1687222715000
+      }
+    },
+    "Modules (Mobile)": {
+      "Playthroughs": {
+        "sys_id": "9846f559976321107c1c358e6253af9f",
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1687221252000,
+        "CURRENT_LOCAL_MOD_TIME": 1687196083268
+      }
+    }
+  },
+  "Data Model": {
+    "Tables": {
+      "Playthroughs": {
+        "sys_id": "35267559976321107c1c358e6253afce",
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1687222024000,
+        "CURRENT_LOCAL_MOD_TIME": 1687196083268
+      }
+    }
+  },
+  "Miscellaneous": {
+    "Dictionary Entries": {
+      "x_966148_gaming_playthroughs": {
+        "sys_id": "ec46f559976321107c1c358e6253afd4",
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1687221253000,
+        "sys_updated_on": "2023-06-19 17:34:13",
+        "SERVER_MOD_TIME": 1687221253000,
+        "LOCAL_MOD_TIME": 1687196083418,
+        "CURRENT_LOCAL_MOD_TIME": 1687196083418
+      },
+      "Started": {
+        "sys_id": "47e0865597a321107c1c358e6253af5d",
+        "LIVE": false,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1687224066000,
+        "sys_updated_on": "2023-06-19 18:21:06",
+        "SERVER_MOD_TIME": 1687224066000,
+        "LOCAL_MOD_TIME": 1687199086878
+      },
+      "Game Name": {
+        "sys_id": "ca67f999976321107c1c358e6253af21",
+        "LIVE": false,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1687221582000,
+        "sys_updated_on": "2023-06-19 17:39:42",
+        "SERVER_MOD_TIME": 1687221582000,
+        "LOCAL_MOD_TIME": 1687199086878
+      },
+      "Ended": {
+        "sys_id": "ed014a1597a321107c1c358e6253af44",
+        "LIVE": false,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1687224088000,
+        "sys_updated_on": "2023-06-19 18:21:28",
+        "SERVER_MOD_TIME": 1687224088000,
+        "LOCAL_MOD_TIME": 1687199086888
+      }
+    }
   }
 }
